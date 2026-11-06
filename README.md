@@ -15,7 +15,7 @@
 3. 輸入或點選建議問題。
 
 ## 模型
-- `llama-3.1-8b-instant`（Groq 免費模型）
+- `openai/gpt-oss-120b`（Groq 上的 GPT-OSS 模型）
 
 ## 知識庫來源
 - A2O 課程練習包（虛構公司與假資料），僅為練習用途。
